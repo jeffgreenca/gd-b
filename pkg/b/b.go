@@ -5,5 +5,5 @@ import (
 )
 
 func B() string {
-	return "b" + c.C()
+	return "bV2/" + c.C()
 }
